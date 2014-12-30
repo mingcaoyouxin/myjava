@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJava.iml" filepath="$PROJECT_DIR$/MyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bayes/bayes.iml" filepath="$PROJECT_DIR$/bayes/bayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initial/initial.iml" filepath="$PROJECT_DIR$/initial/initial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm/jvm.iml" filepath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphic/polymorphic.iml" filepath="$PROJECT_DIR$/polymorphic/polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundupdown/roundupdown.iml" filepath="$PROJECT_DIR$/roundupdown/roundupdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
+
