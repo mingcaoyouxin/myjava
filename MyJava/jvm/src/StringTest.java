@@ -1,3 +1,6 @@
+import java.lang.ref.SoftReference;
+import java.lang.ref.WeakReference;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Set;
 
@@ -29,5 +32,8 @@ public class StringTest {
         String ss4 = "11";
         s3.intern();
         System.out.println(ss3 == ss4);
+
+
+
     }
 }
