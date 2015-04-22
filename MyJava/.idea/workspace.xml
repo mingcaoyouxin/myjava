@@ -64,96 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/Duck.java">
+      <file leaf-file-name="WeatherData.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServerDesign/src/WeatherData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="663">
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/ModelDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyRocketPowered.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyRocketPowered.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="14" selection-start="47" selection-end="47" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MallardDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/MallardDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="266" selection-end="266" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyBehavior.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyBehavior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quack.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/Quack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.19744483" vertical-offset="0" max-vertical-offset="861">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Squeak.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/Squeak.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiniDuckSimulator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="374">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MuteQuack.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/MuteQuack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="37" selection-start="184" selection-end="184" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="272">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuackBehavior.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="28" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="204">
+            <state line="3" column="79" selection-start="115" selection-end="115" vertical-scroll-proportion="0.05923345" vertical-offset="0" max-vertical-offset="861">
               <folding />
             </state>
           </provider>
@@ -189,6 +103,7 @@
         <option value="$PROJECT_DIR$/EntryDesign/src/FlyRocketPowered.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/MallardDuck.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java" />
+        <option value="$PROJECT_DIR$/ServerDesign/src/WeatherData.java" />
       </list>
     </option>
   </component>
@@ -254,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EntryDesign" />
+              <option name="myItemId" value="ServerDesign" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EntryDesign" />
+              <option name="myItemId" value="ServerDesign" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -626,15 +541,15 @@
       <workItem from="1420163888738" duration="8630000" />
       <workItem from="1420261402258" duration="4678000" />
       <workItem from="1420289090062" duration="2087000" />
-      <workItem from="1429667515248" duration="9973000" />
+      <workItem from="1429667515248" duration="11231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26186000" />
+    <option name="totallyTimeSpent" value="27444000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1068" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1068" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -902,7 +817,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="28" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="204">
+        <state line="1" column="28" selection-start="32" selection-end="32" vertical-scroll-proportion="0.019744484" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
@@ -916,14 +831,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="37" selection-start="184" selection-end="184" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="272">
+        <state line="7" column="37" selection-start="184" selection-end="184" vertical-scroll-proportion="0.13821138" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/Squeak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
+        <state line="10" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="0.19744483" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
@@ -951,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="374">
+        <state line="15" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="0.29616725" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
@@ -971,6 +886,13 @@
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/Quack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.19744483" vertical-offset="0" max-vertical-offset="861">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServerDesign/src/WeatherData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="79" selection-start="115" selection-end="115" vertical-scroll-proportion="0.05923345" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>
