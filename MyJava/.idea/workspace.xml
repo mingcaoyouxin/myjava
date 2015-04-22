@@ -64,10 +64,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Duck.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Duck.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/Duck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="71" selection-start="379" selection-end="379" vertical-scroll-proportion="0.39488965" vertical-offset="0" max-vertical-offset="861">
+            <state line="17" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="663">
+              <folding>
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModelDuck.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EntryDesign/src/ModelDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="357">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlyRocketPowered.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyRocketPowered.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="47" selection-end="47" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MallardDuck.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EntryDesign/src/MallardDuck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="8" selection-start="266" selection-end="266" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -76,16 +108,16 @@
       <file leaf-file-name="FlyBehavior.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
+            <state line="7" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quack.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Quack.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/Quack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="140" selection-end="140" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
+            <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.19744483" vertical-offset="0" max-vertical-offset="861">
               <folding />
             </state>
           </provider>
@@ -94,7 +126,16 @@
       <file leaf-file-name="Squeak.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/Squeak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="141" selection-end="141" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
+            <state line="10" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniDuckSimulator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -103,25 +144,7 @@
       <file leaf-file-name="MuteQuack.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/MuteQuack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyWithWings.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyWithWings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyNoWay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyNoWay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="18" selection-start="139" selection-end="139" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
+            <state line="7" column="37" selection-start="184" selection-end="184" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="272">
               <folding />
             </state>
           </provider>
@@ -130,25 +153,7 @@
       <file leaf-file-name="QuackBehavior.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="24" selection-start="94" selection-end="94" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="204">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedheadDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/RedheadDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RubberDuck.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EntryDesign/src/RubberDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="16" selection-start="151" selection-end="151" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="289">
+            <state line="1" column="28" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
@@ -170,17 +175,20 @@
         <option value="$PROJECT_DIR$/jvm/src/FinalizeEscapeGC.java" />
         <option value="$PROJECT_DIR$/algorithm/src/RandomNumber.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/Entry.java" />
-        <option value="$PROJECT_DIR$/EntryDesign/src/MallardDuck.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/RedheadDuck.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/EntryDesign/src/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/FlyWithWings.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/FlyBehavior.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/Quack.java" />
-        <option value="$PROJECT_DIR$/EntryDesign/src/Squeak.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/MuteQuack.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/Squeak.java" />
         <option value="$PROJECT_DIR$/EntryDesign/src/Duck.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/ModelDuck.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/FlyRocketPowered.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java" />
       </list>
     </option>
   </component>
@@ -302,24 +310,7 @@
       <recent name="E:\IdeaProjects\MyJava\jvm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalizeEscapeGC">
-    <configuration default="false" name="DynamicBinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DynamicBinding" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="polymorphic" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration default="false" name="String.java" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="jar://C:/Program Files (x86)/Java/jdk1.7.0_45/src.zip!/java/lang/String.java">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -371,6 +362,23 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="jvm" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MiniDuckSimulator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EntryDesign" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -588,19 +596,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DynamicBinding" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.String.java" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReferenceTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FinalizeEscapeGC" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.String.java" />
+      <item index="1" class="java.lang.String" itemvalue="Application.StringTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReferenceTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FinalizeEscapeGC" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FinalizeEscapeGC" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReferenceTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringTest" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.String.java" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DynamicBinding" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FinalizeEscapeGC" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReferenceTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StringTest" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.String.java" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -618,15 +626,15 @@
       <workItem from="1420163888738" duration="8630000" />
       <workItem from="1420261402258" duration="4678000" />
       <workItem from="1420289090062" duration="2087000" />
-      <workItem from="1429667515248" duration="4657000" />
+      <workItem from="1429667515248" duration="9374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20870000" />
+    <option name="totallyTimeSpent" value="25587000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1068" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1068" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -642,18 +650,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14057508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3786078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37787515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -864,13 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EntryDesign/src/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/RedheadDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="255">
@@ -887,56 +888,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyWithWings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="23" selection-start="166" selection-end="166" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="289">
+        <state line="9" column="41" selection-start="228" selection-end="228" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="139" selection-end="139" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
+        <state line="7" column="40" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="272">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/QuackBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="94" selection-end="94" vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="204">
+        <state line="1" column="28" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="204">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="104" selection-end="104" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EntryDesign/src/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="140" selection-end="140" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EntryDesign/src/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="141" selection-end="141" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="255">
+        <state line="7" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="155" selection-end="155" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="255">
+        <state line="7" column="37" selection-start="184" selection-end="184" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/Squeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="188" selection-end="188" vertical-scroll-proportion="-6.8" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/FlyRocketPowered.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="47" selection-end="47" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="8" selection-start="266" selection-end="266" vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/ModelDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="479" selection-end="479" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EntryDesign/src/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="71" selection-start="379" selection-end="379" vertical-scroll-proportion="0.39488965" vertical-offset="0" max-vertical-offset="861">
+        <state line="17" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="663">
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EntryDesign/src/Quack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.19744483" vertical-offset="0" max-vertical-offset="861">
           <folding />
         </state>
       </provider>

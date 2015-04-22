@@ -7,5 +7,6 @@ public class FlyWithWings implements FlyBehavior {
     @Override
     public void fly() {
         //实现接口的飞行行为
+        System.out.println("I'm flying!");
     }
 }
