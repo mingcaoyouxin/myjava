@@ -64,101 +64,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyThread.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/MyThread.java">
+      <file leaf-file-name="OneObjectOrCodeFinal.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeFinal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="49" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="27" column="1" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Printer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/Printer.java">
+      <file leaf-file-name="TestThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state line="29" column="13" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="918">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SleepMain.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="SleepMain.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Concurrency/src/SleepMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="18" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.45333335" vertical-offset="0" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bank.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/Bank.java">
+      <file leaf-file-name="OneObjectOrCodeStatic.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeStatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="642" selection-end="642" vertical-scroll-proportion="0.77003485" vertical-offset="0" max-vertical-offset="612">
+            <state line="25" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadTest1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest1.java">
+      <file leaf-file-name="CountingFactorizer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyThread/src/CountingFactorizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="9" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="782">
+            <state line="9" column="32" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadTest2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest2.java">
+      <file leaf-file-name="ExpensiveObject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyThread/src/ExpensiveObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1054">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1053#1179#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
-                <element signature="e#1216#1343#0" expanded="true" />
-                <element signature="e#1332#1333#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPrinter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/MainPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="4" column="13" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/Main.java">
+      <file leaf-file-name="ThreadTest3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+            <state line="27" column="46" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest.java">
+      <file leaf-file-name="NotThreadSafe.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyThread/src/NotThreadSafe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="1" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="3" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnsafeCountingFactorizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
+      <file leaf-file-name="LazyInitRace.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyThread/src/LazyInitRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1190">
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="method#getCount#0;class#UnsafeCountingFactorizer#0" expanded="false" />
-              </folding>
+            <state line="8" column="41" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SynchronizedFactorizer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyThread/src/SynchronizedFactorizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="48" selection-start="209" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -189,8 +180,12 @@
         <option value="$PROJECT_DIR$/Concurrency/src/Printer.java" />
         <option value="$PROJECT_DIR$/Concurrency/src/MainPrinter.java" />
         <option value="$PROJECT_DIR$/Concurrency/src/MyThread.java" />
-        <option value="$PROJECT_DIR$/Concurrency/src/SleepMain.java" />
         <option value="$PROJECT_DIR$/Concurrency/src/Bank.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/ObjectOrCode.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/OneObjectOrCode.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeFinal.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeStatic.java" />
+        <option value="$PROJECT_DIR$/Concurrency/src/SleepMain.java" />
       </list>
     </option>
   </component>
@@ -258,6 +253,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="SingletonDesign" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyThread" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Concurrency" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -280,6 +321,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestThread.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -297,8 +360,63 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ThreadTest2">
+  <component name="RunManager" selected="Application.ThreadTest3">
+    <configuration default="false" name="OneObjectOrCodeFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="OneObjectOrCodeFinal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Concurrency" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ThreadTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Concurrency" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ThreadTest1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Concurrency" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="ThreadTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ThreadTest2" />
@@ -319,57 +437,6 @@
     <configuration default="false" name="ThreadTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ThreadTest3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Concurrency" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Concurrency" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MainPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MainPrinter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Concurrency" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SleepMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SleepMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -596,19 +663,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThreadTest3" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MainPrinter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SleepMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.OneObjectOrCodeFinal" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ThreadTest1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreadTest2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ThreadTest3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SleepMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainPrinter" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ThreadTest3" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreadTest2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ThreadTest1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreadTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.OneObjectOrCodeFinal" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -617,18 +684,37 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4b233800-4e88-4a9d-861e-0e6956f9c4d7" name="Default" comment="" />
       <created>1430109541926</created>
       <updated>1430109541926</updated>
       <workItem from="1430109540282" duration="6503000" />
-      <workItem from="1430190841573" duration="5587000" />
+      <workItem from="1430190841573" duration="6730000" />
+      <workItem from="1430204285472" duration="125000" />
+      <workItem from="1430204446595" duration="5740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12090000" />
+    <option name="totallyTimeSpent" value="19098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1052" extended-state="6" />
@@ -638,7 +724,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -653,12 +739,12 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17571884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14483494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1928651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -683,6 +769,132 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/SleepMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="45" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="9" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1064">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1178">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/MainPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="41" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="532" max-vertical-offset="1368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="49" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/SleepMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="9" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/MainPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="41" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="93" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
@@ -697,26 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/Prediction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/NewTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SingletonDesign/src/SafeSingletonDoublecheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="4" selection-start="917" selection-end="917" vertical-scroll-proportion="0.41034484" vertical-offset="0" max-vertical-offset="870" />
@@ -727,33 +919,81 @@
         <state line="48" column="5" selection-start="1460" selection-end="1813" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1343" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="494" selection-end="494" vertical-scroll-proportion="0.17073171" vertical-offset="208" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="6" selection-start="4484" selection-end="4484" vertical-scroll-proportion="0.33275262" vertical-offset="1560" max-vertical-offset="34000">
+        <state line="140" column="6" selection-start="4484" selection-end="4484" vertical-scroll-proportion="0.33275262" vertical-offset="1560" max-vertical-offset="34000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/StatelessFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="53" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/ThreadSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyThread/src/CountingFactorizer.java">
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state line="18" column="41" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/NewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/Prediction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1581">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="24" selection-start="848" selection-end="848" vertical-scroll-proportion="0.48850575" vertical-offset="0" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="164" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ObjectOrCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="6" selection-start="1350" selection-end="1350" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="952">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -771,6 +1011,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/SynchronizedFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="48" selection-start="209" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="1" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="16" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="40" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyThread/src/CountingFactorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="32" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="302" selection-end="302" vertical-scroll-proportion="0.30222222" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/MainPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="46" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/NotThreadSafe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
@@ -778,106 +1102,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyThread/src/StatelessFactorizer.java">
+    <entry file="file://$PROJECT_DIR$/Concurrency/src/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="53" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+        <state line="26" column="26" selection-start="688" selection-end="688" vertical-scroll-proportion="0.65481484" vertical-offset="0" max-vertical-offset="675">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyThread/src/SynchronizedFactorizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#432#444#0" expanded="false" />
-            <element signature="e#527#541#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyThread/src/ThreadSafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1190">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#getCount#0;class#UnsafeCountingFactorizer#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="49" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/MainPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="9" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="48" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1054">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1053#1179#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-            <element signature="e#1216#1343#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/SleepMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="642" selection-end="642" vertical-scroll-proportion="0.77003485" vertical-offset="0" max-vertical-offset="612">
+        <state line="18" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.45333335" vertical-offset="0" max-vertical-offset="675">
           <folding />
         </state>
       </provider>

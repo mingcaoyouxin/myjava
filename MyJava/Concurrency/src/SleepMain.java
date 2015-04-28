@@ -9,7 +9,7 @@ public class SleepMain  {
         for(int i=0;i<10;i++){
             System.out.println("Good!");
             try {
-                Thread.sleep(1000);
+                Thread.sleep(1000);//注意是Thread的sleep方法，而不是具体的某个实例的sleep方法
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
