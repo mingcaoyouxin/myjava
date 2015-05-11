@@ -1,3 +1,5 @@
+import com.util.ThreadSafe;
+
 import javax.servlet.*;
 import java.io.IOException;
 import java.math.BigInteger;
@@ -9,7 +11,10 @@ import java.util.concurrent.atomic.AtomicReference;
  * sychronized(lock){
  *     //访问或修改由锁保护的共享状态
  * }
+ *每个java对象都可以用做一个实现同步的锁，这些锁被称为内置锁或监视器锁。线程在进入同步代码块之前获得锁，并且在退出同步代码块时，自动释放锁。无论是通过正常的控制途径退出
+ * 还是通过从代码块中抛出异常退出
  *
+ * 下面的这种方法可以保证线程安全但是过于极端，因为多个客户端无法同时使用因数分解Servlet，服务器的响应性非常低，令人无法接受
  */
 @ThreadSafe
 public class SynchronizedFactorizer implements Servlet {

@@ -44,16 +44,11 @@ public class Prediction {
         }
         for(int i = 0; i < timeSeriesOrig.size(); i++)
         {
-            month = month % 12;
-            sindex[month] += A[i+6]/num[i];
-            scount[month]++;
-            month++;
+
         }
         double indexsum = 0, indexpara = 0;
         for(int i = 0; i < 12; i++)
         {
-            sindex[i] = sindex[i] / scount[i];
-            indexsum +=sindex[i];
         }
     }
 

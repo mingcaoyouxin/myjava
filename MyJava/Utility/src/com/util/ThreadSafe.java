@@ -1,3 +1,5 @@
+package com.util;
+
 /**
  * Created by dh on 15-4-25.
  */
