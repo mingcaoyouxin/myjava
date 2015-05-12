@@ -67,7 +67,7 @@
       <file leaf-file-name="LoggingWidget.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyThread/src/LoggingWidget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="2" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="15" column="2" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="LazyInitRace.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyThread/src/LazyInitRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="24" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="13" column="24" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,8 @@
       <file leaf-file-name="StatelessFactorizer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyThread/src/StatelessFactorizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="1139">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="14" column="6" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1207">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,34 +94,8 @@
       <file leaf-file-name="SynchronizedFactorizer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyThread/src/SynchronizedFactorizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnsafeCachingFactorizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCachingFactorizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#577#589#0" expanded="false" />
-                <element signature="e#672#686#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnsafeCountingFactorizer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="8" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
-              <folding>
-                <element signature="method#getCount#0;class#UnsafeCountingFactorizer#0" expanded="false" />
-              </folding>
+            <state line="19" column="13" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1428">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -131,13 +103,8 @@
       <file leaf-file-name="MutableInteger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectShared/src/MutableInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="98" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <folding>
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
+            <state line="5" column="98" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="459">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -145,16 +112,34 @@
       <file leaf-file-name="SynchronizedInteger.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectShared/src/SynchronizedInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="53" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+            <state line="4" column="53" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.txt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Readme.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectShared/Readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="587" selection-end="587" vertical-scroll-proportion="0.24056605" vertical-offset="0" max-vertical-offset="848">
+            <state line="14" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectShared/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="43" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Secret.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectShared/src/Secret.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="21" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
@@ -163,7 +148,7 @@
       <file leaf-file-name="NoVisibility.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ObjectShared/src/NoVisibility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="18" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="20" column="18" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -219,6 +204,8 @@
         <option value="$PROJECT_DIR$/ObjectShared/src/MutableInteger.java" />
         <option value="$PROJECT_DIR$/ObjectShared/src/SynchronizedInteger.java" />
         <option value="$PROJECT_DIR$/ObjectShared/Readme.txt" />
+        <option value="$PROJECT_DIR$/ObjectShared/src/Secret.java" />
+        <option value="$PROJECT_DIR$/ObjectShared/src/Test.java" />
       </list>
     </option>
   </component>
@@ -256,6 +243,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,8 +297,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,6 +320,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\code\src\JavaGit\MyJava\Utility\src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.NoVisibility">
@@ -681,24 +671,23 @@
       <workItem from="1430204285472" duration="125000" />
       <workItem from="1430204446595" duration="5834000" />
       <workItem from="1430270472091" duration="7260000" />
-      <workItem from="1431308774927" duration="15533000" />
+      <workItem from="1431308774927" duration="15534000" />
+      <workItem from="1431414622327" duration="775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41985000" />
+    <option name="totallyTimeSpent" value="42761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1052" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1052" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="DSM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="852" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -707,18 +696,20 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14483494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1928651" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DSM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="852" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -743,21 +734,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="93" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/src/ThreadTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="952" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SingletonDesign/src/SafeSingletonDoublecheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="4" selection-start="917" selection-end="917" vertical-scroll-proportion="0.41034484" vertical-offset="0" max-vertical-offset="870" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="140" column="6" selection-start="4484" selection-end="4484" vertical-scroll-proportion="0.33275262" vertical-offset="1560" max-vertical-offset="34000" />
@@ -825,9 +801,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeStatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
+        <state line="25" column="1" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/Printer.java">
@@ -857,186 +831,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleThreadedExecutionPattern/SingleThreadedExecutionPattern.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/TestThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="29" column="13" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="918" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Concurrency/src/OneObjectOrCodeFinal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="1" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <folding />
-        </state>
+        <state line="27" column="1" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleThreadedExecutionPattern/src/Gate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleThreadedExecutionPattern/src/UserThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="33" selection-start="0" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1003">
-          <folding />
-        </state>
+        <state line="27" column="33" selection-start="0" selection-end="939" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1003" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleThreadedExecutionPattern/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="10" column="5" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerDesign/src/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/ExpensiveObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/Widget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <marker date="1431311538092" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="6" column="0" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848">
-          <folding />
-        </state>
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="848" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polymorphic/src/DynamicBinding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="6" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <folding />
-        </state>
+        <state line="19" column="6" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/polymorphic/src/FieldAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding>
-            <element signature="e#606#607#0" expanded="false" />
-            <element signature="e#634#635#0" expanded="false" />
-            <element signature="e#733#734#0" expanded="false" />
-            <element signature="e#761#762#0" expanded="false" />
-            <element signature="e#798#799#0" expanded="false" />
-            <element signature="e#832#833#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="19" column="39" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utility/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
+        <state line="0" column="3" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utility/src/com/util/ThreadSafe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="221">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="221" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Utility/src/com/util/NotThreadSafe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/CountingFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="20" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="36" column="20" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/CachedFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getHits#0;class#CachedFactorizer#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bayes/src/Prediction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="33" selection-start="1404" selection-end="1405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
-          <folding />
-        </state>
+        <state line="49" column="33" selection-start="1404" selection-end="1405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/src/Varargs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="20" column="19" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCountingFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="8" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
-          <folding>
-            <element signature="method#getCount#0;class#UnsafeCountingFactorizer#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="9" column="8" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/UnsafeCachingFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="10" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#577#589#0" expanded="false" />
-            <element signature="e#672#686#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/SynchronizedFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="13" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="1428">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyThread/src/StatelessFactorizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="6" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1139">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,12 +974,7 @@
     <entry file="file://$PROJECT_DIR$/ObjectShared/src/MutableInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="98" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,9 +985,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/Books/java并发编程实践/jcip-examples-src/net/jcip/examples/UnsafeLazyInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="0.4811321" vertical-offset="0" max-vertical-offset="848">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ObjectShared/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="587" selection-end="587" vertical-scroll-proportion="0.24056605" vertical-offset="0" max-vertical-offset="848">
+        <state line="14" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectShared/src/Secret.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectShared/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="196" selection-end="196" vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
