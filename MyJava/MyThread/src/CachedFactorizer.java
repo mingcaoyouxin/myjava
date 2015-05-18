@@ -1,3 +1,5 @@
+import com.util.ThreadSafe;
+
 import javax.servlet.*;
 import java.io.IOException;
 import java.math.BigInteger;
@@ -10,6 +12,7 @@ import java.math.BigInteger;
  * 如果Servlet在对某个大数值进行因数分解时需要很长的执行时间，那么其他的客户端必须一直等待，知道Servlet处理完当前的请求，才能开始另一个新的因数分解运算。
  *
  */
+@ThreadSafe
 public class CachedFactorizer implements Servlet {
     private BigInteger lastNumber;
     private BigInteger[] lastFactors;
