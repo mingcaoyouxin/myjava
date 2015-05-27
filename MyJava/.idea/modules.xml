@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/EntryDesign/EntryDesign.iml" filepath="$PROJECT_DIR$/EntryDesign/EntryDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyJava.iml" filepath="$PROJECT_DIR$/MyJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyThread/MyThread.iml" filepath="$PROJECT_DIR$/MyThread/MyThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectShared/ObjectShared.iml" filepath="$PROJECT_DIR$/ObjectShared/ObjectShared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observable/Observable.iml" filepath="$PROJECT_DIR$/Observable/Observable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServerDesign/ServerDesign.iml" filepath="$PROJECT_DIR$/ServerDesign/ServerDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleThreadedExecutionPattern/SingleThreadedExecutionPattern.iml" filepath="$PROJECT_DIR$/SingleThreadedExecutionPattern/SingleThreadedExecutionPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SingletonDesign/SingletonDesign.iml" filepath="$PROJECT_DIR$/SingletonDesign/SingletonDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utility/Utility.iml" filepath="$PROJECT_DIR$/Utility/Utility.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
